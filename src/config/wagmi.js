@@ -7,7 +7,7 @@ export const CONTRACTS = {
     usdc: "0x036CbD53842c5426634e7929541eC2318f3dCF7e",
   },
   [base.id]: {
-    bountyEscrow: "",
+    bountyEscrow: "0x3Bc2A8d4bD7AB3A41bBEc4BF0cCC682aA911AACa",
     usdc: "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
   },
 };
