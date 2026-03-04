@@ -14,6 +14,7 @@ export default function RootLayout({ children }) {
       <head>
         <title>Base Micro-Bounties Hub</title>
         <meta name="description" content="Decentralized bounty marketplace on Base" />
+        <meta name="base:app_id" content="69a88a32eebd21f814692523" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet" />
       </head>
